@@ -1,0 +1,73 @@
+form {
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    text-align: none;
+}
+  
+h2 {
+    text-align: left;
+    font-weight: normal;
+    font-size: 30px;
+}
+  
+label, input {
+    display: block;
+    margin-bottom: none;
+}
+  
+label {
+    font-weight: none;
+}
+  
+input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+  
+input[class="button1"] {
+    background-color: rgb(253, 190, 74);
+    color: black;
+    padding: 10px 225px;
+    border: black;
+    cursor: pointer;
+    border-style: solid;
+}
+
+footer{
+    text-align: center;
+}
+
+h4{
+    font-weight: normal;
+}
+
+.new-txt{
+    text-align: center;
+    
+}
+
+
+.box{
+    border: 1px solid lightgray;
+    padding-left: 40px;
+    padding-right: 80px;
+    padding-bottom: 40px;
+    width: 500px;
+    margin: 1px auto;
+}
+
+input[class="create-txt"] {
+    background-color: lightgray;
+    color: black;
+    border: black;
+    cursor: pointer;
+    border-style: solid;
+    height: 40px;
+    width: 500px;
+    margin: auto;
+}
+
+
